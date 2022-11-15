@@ -15,7 +15,7 @@
     "images"
   ],
   "require": {
-    "php": "^5.5.9 || ^7.0",
+    "php": ">=7.0",
     "league/glide": "^1.0"
   },
   "scripts": {
